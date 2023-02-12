@@ -4,7 +4,7 @@
 # -------------------------------------------------
  
 # Update the system
-sudo apt udpate -y
+sudo apt update -y
 sudo apt upgrade -y
 
 # Install nginx, php, and nodejs
